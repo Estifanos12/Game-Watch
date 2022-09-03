@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Game-Watch/static/css/main.bc1f51e0.css",
+    "main.js": "/Game-Watch/static/js/main.55bee9a9.js",
+    "index.html": "/Game-Watch/index.html",
+    "main.bc1f51e0.css.map": "/Game-Watch/static/css/main.bc1f51e0.css.map",
+    "main.55bee9a9.js.map": "/Game-Watch/static/js/main.55bee9a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc1f51e0.css",
+    "static/js/main.55bee9a9.js"
+  ]
+}
